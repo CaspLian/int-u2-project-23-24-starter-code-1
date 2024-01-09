@@ -14,10 +14,7 @@
   border: solid;
 }
 
-figcaption{
-  
-  
-}
+
 /* The code below adds a white background-color and black text color for the body of the page. */
 body {
   color: black;
@@ -42,13 +39,19 @@ body {
 }
 
 .p1{
-  text-align:left;
+  text-align:center;
 }
 
 .p2{
-  text-align:right;
+  text-align:center;
 }
-/*resize*/
-.emash{
-  size: 50px;
+
+.ash{
+  width: 500px;
+  border:solid;
+}
+
+.swine{
+  width: 400px;
+  border: solid;
 }

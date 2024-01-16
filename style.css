@@ -33,11 +33,11 @@ body {
 }
 
 .sub-section {
-  display: inline-block;
   margin: 25px;
-  justify-content: space-between;
   text-align: center;
   background-color: green;
+  display: flex;
+  justify-content: space-around;
 }
 
 .p1{
@@ -63,10 +63,20 @@ body {
   border: solid;
 }
 
+.lionfish{
+  width: 400px;
+  border: solid;
+}
+
 li{
   padding: 5px;
 }
 
 p{
   padding: 5px;
+  text-align: justify;
+}
+
+.sp{
+  text-align: justify;
 }

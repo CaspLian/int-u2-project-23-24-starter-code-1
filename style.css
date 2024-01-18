@@ -27,10 +27,11 @@ body {
 .section {
   color: white;
   text-align: center;
-  background-color: #878a5c;
-  margin:5px;
+  background-color: #72744E;
+  margin:15px;
   padding:15px;
 }
+
 
 .sub-section {
   margin: 25px;
@@ -79,4 +80,14 @@ p{
 
 .sp{
   text-align: justify;
+}
+
+.steps{
+  margin: 25px;
+  text-align: center;
+  background-color: green;
+}
+
+figcaption{
+  color: white;
 }
